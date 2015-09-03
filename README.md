@@ -22,13 +22,13 @@ Pull requests and suggestions to this repository are highly encouraged!
 4.  Auto Layout
 ---
 
-5.  Multi-tasking
+5.  Multi-tasking - GCD, NSOperations etc.
 ---
 
-6.  Blocks
+6.  Design Patterns - Delegation, Singleton, Blocks etc.
 ---
 
-7.  Delegation
+7.  App Architecture
 ---
 
 8.  Core Data
