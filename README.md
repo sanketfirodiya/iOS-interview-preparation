@@ -1,4 +1,4 @@
-# iOS-interview-preparation
+# iOS Interview Preparation Guide
 
 A repository of iOS questions and recommended relevant blog posts on various aspects of iOS development.
 
@@ -7,14 +7,17 @@ Hopefully, this will be more useful than reading blog posts straight up, since k
 For anyone who practicing for an upcoming interview or even otherwise to just stay current.
 
 Pull requests and suggestions to this repository are highly encouraged!
----
+
 <br/>
 
 #### iOS SDK
+---
 
 #### Objective-C runtime
+---
 
 #### Memory Management
+---
 
 #### Auto Layout
 
