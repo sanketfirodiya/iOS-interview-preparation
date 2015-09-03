@@ -10,34 +10,43 @@ Pull requests and suggestions to this repository are highly encouraged!
 
 <br/>
 
-#### iOS SDK
+1. iOS SDK
 ---
 
-#### Objective-C runtime
+2. Objective-C runtime
 ---
 
-#### Memory Management
+3.  Memory Management
 ---
 
-#### Auto Layout
+4.  Auto Layout
+---
 
-#### Multi-tasking
+5.  Multi-tasking
+---
 
-#### Blocks
+6.  Blocks
+---
 
-#### Delegation
+7.  Delegation
+---
 
-#### Core Data
+8.  Core Data
+---
 
-#### Objective-C Language Features
+9.  Objective-C Language Features
+---
 
-#### Swift Language Features
+10.  Swift Language Features
+---
 
-#### Instruments and Profiling
+11.  Instruments and Profiling
+---
 
-#### Debugging
+12.  Debugging
+---
 
-#### Code Signing
-
+13.  Code Signing
+---
 
 
