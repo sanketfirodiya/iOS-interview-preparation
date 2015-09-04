@@ -50,7 +50,14 @@ Recommended reading:
 
 8.  Core Data
 ---
+- What is core data and what are the different classes the build the core data stack?
+- How would you implement core data to work in a multi-threaded environment?
 
+Recommended reading:
+- [Exploring all the different core data concurrency configurations](https://blog.codecentric.de/en/2014/11/concurrency-coredata/)
+- [A real guide to core data concurreny](http://quellish.tumblr.com/post/97430076027/a-real-guide-to-core-data-concurrency)
+- [New in core data and iOS8 batch updating](https://www.bignerdranch.com/blog/new-in-core-data-and-ios-8-batch-updating/)
+- [Maintaing a silky smooth UI with core data](https://medium.com/soundwave-stories/core-data-cffe22efe716)
 9.  Objective-C Language Features
 ---
 
