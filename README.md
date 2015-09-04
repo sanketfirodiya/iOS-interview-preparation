@@ -27,7 +27,6 @@ Recommended reading:
 - [Memory Management with Objective C / Cocoa / iPhone - Memo Akten](http://memo.tv/archive/memory_management_with_objective_c_cocoa_iphone)
 - [Memory Management - RyPress](http://rypress.com/tutorials/objective-c/memory-management)
 - [An In-depth Look At Manual Memory Management In Objective-C - Tom Dalling](http://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
-
 4.  Auto Layout
 ---
 
