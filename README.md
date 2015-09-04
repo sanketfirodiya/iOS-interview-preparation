@@ -35,7 +35,16 @@ Recommended reading:
 
 6.  Design Patterns - Delegation, Singleton, Blocks etc.
 ---
+Blocks
+- What are blocks and when would you use them in your app?
+- How can a block mutate variables declared outside the block?
+- How can blocks lead to memory retain cycles?
 
+Recommended reading:
+- [Understanding Objective-C Blocks - Intertech](http://www.intertech.com/Blog/understanding-objective-c-blocks/)
+- [Blocks in Objective-C (Without Tears) - Tim Duckett](http://adoptioncurve.net/archives/2013/02/blocks-in-objective-c-without-tears/)
+- [Blocks - RyPress](http://rypress.com/tutorials/objective-c/blocks)
+- [http://goshdarnblocksyntax.com/](http://goshdarnblocksyntax.com/)
 7.  App Architecture
 ---
 
