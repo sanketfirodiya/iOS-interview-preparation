@@ -1,6 +1,6 @@
 # iOS Interview Preparation Guide
 
-A repository of iOS questions and recommended relevant blog posts on various aspects of iOS development.
+A repository of iOS questions and recommended blog posts relevant to various topics of iOS development.
 
 For anyone practicing for an upcoming interview or even otherwise to just stay current.
 
@@ -69,3 +69,4 @@ Recommended reading:
 
 13.  Code Signing
 ---
+
